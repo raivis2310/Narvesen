@@ -1,0 +1,19 @@
+{
+  "narvesen":[
+    {"name":"Chocolate", "priceTag":"90"},
+    {"name":"Coffee", "priceTag":"249"},
+    {"name":"Energy drink", "priceTag":"129"},
+    {"name":"Sandwich", "priceTag":"169"},
+    {"name":"Fruit juice", "priceTag":"210"},
+    {"name":"Chewing gum", "priceTag":"75"},
+    {"name":"Beer", "priceTag":"159"},
+    {"name":"Lemonade", "priceTag":"119"},
+    {"name":"Smoothie", "priceTag":"209"},
+    {"name":"Vegetable salad", "priceTag":"329"},
+    {"name":"Bus ticket", "priceTag":"150"},
+    {"name":"Lottery ticket", "priceTag":"500"},
+    {"name":"Hot dog", "priceTag":"250"},
+    {"name":"Magazine", "priceTag":"245"}
+
+  ]
+}
